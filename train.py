@@ -110,5 +110,3 @@ sc_df = sc.fit_transform(X_train)
 X_train = pd.DataFrame(sc_df, columns=X_train.columns)
 X_test = pd.DataFrame(sc.transform(X_test), columns=X_test.columns)
 
-print(X_test.head(3))
-print(X_train.head(3))
