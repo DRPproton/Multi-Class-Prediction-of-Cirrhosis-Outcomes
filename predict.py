@@ -3,6 +3,7 @@ import pickle
 import pandas as pd
 from utils import *
 
+# Loading the models
 with open('xgb_model.bin', 'rb') as f_in:
     xgb_model = pickle.load(f_in)
 
