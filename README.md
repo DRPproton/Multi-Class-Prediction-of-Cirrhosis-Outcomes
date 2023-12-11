@@ -1,8 +1,6 @@
 # Multi-Class-Prediction-of-Cirrhosis-Outcomes
 
-We will try to predict the probability of patient's death, censore or censored due to liver transplantation. 
-This repository contains a Jupyter Notebook, `Multi-Class Prediction of Cirrhosis Outcomes.ipynb`, which provides a predictive analysis and model constuction and selection. 
-The notebook aims to help you understand and predict patient's death, censore and censored due to liver transplantation using data analysis and machine learning techniques.
+We will try to predict the probability of a patient's death, censored or censored due to liver transplantation. This repository contains a Jupyter Notebook, `Multi-Class Prediction of Cirrhosis Outcomes.ipynb`, which provides a predictive analysis, model construction, and selection. The notebook aims to help you understand and predict a patient's death, censored and censored due to liver transplantation, using data analysis and machine learning techniques.
 
 <hr />
 
@@ -13,7 +11,7 @@ These variables are crucial for building predictive models to assess the risk of
 
 ## Introduction
 
-Cirrhosis is a late stage of scarring (fibrosis) of the liver caused by many forms of liver diseases and conditions, such as hepatitis and chronic alcoholism. 
+Cirrhosis is a condition where the liver develops fibrosis or scarring due to many forms of liver disease, including chronic alcoholism and hepatitis.
 This project aims to predict cirrhosis outcomes using data analysis and machine learning. 
 The Jupyter Notebook, `Multi-Class Prediction of Cirrhosis Outcomes.ipynb`, walks you through the process of loading, and analyzing Cirrhosis Outcomes. 
 
