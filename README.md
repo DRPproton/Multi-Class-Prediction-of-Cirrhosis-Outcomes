@@ -9,7 +9,7 @@ The notebook aims to help you understand and predict patient's death, censore an
 ![Alt text](variable_info.png)
 
 
-These variables are crucial for understanding the impact of comorbidities on COVID-19 outcomes and for building predictive models to assess the risk of severe illness or mortality based on these factors.
+These variables are crucial for building predictive models to assess the risk of severe illness or mortality based on these factors.
 
 ## Introduction
 
