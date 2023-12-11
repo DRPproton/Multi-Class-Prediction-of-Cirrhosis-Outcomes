@@ -20,7 +20,11 @@ patient = {
  'Prothrombin': 10.6,
  'Stage': 3.0}
 
-url = "http://localhost:9696/predict"
+## URL for local test
+# url = "http://localhost:9696/predict"
+
+## URL for external API test
+url = 'https://cirrhosis-outcomes-prediction.onrender.com/predict'
 
 response = requests.post(url, json=patient).json()
 

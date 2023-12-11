@@ -168,7 +168,7 @@ To run the Jupyter Notebook and perform the analysis, you'll need Python and som
    ```bash
    python test_api.py
    ```
-> Deployed API in this address https://mexico-covid-prediction.onrender.com/predict 
+> Deployed API in this address:  https://cirrhosis-outcomes-prediction.onrender.com/predict
    
 ## Deploy a Docker container in Render, follow these steps:
 
@@ -209,7 +209,11 @@ To run the Jupyter Notebook and perform the analysis, you'll need Python and som
     Use the Render dashboard to monitor your service's performance and make any necessary updates or changes.
 
 
-<img width="1409" alt="Screenshot 2023-11-07 at 9 09 45 AM" src="https://github.com/DRPproton/Mexico-covid-prediction/assets/86702004/2eb74ecb-10f3-4d79-97ad-edafeabd10e5">
+<img width="1000" alt="" src="Screenshot 2023-12-11 at 2.24.10 PM.png" />
+
+
+   
+
 
 
    
